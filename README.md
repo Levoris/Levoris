@@ -1,6 +1,6 @@
 # Hi 👋, I'm Levoris
 
-### A passionate frontend developer from Türkiye
+### A passionate frontend developer from the province of Samsun, Turkey
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Levoris&label=Profile views&color=0e75b6&style=flat" alt="Levoris" /> </p>
 
