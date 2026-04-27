@@ -2,8 +2,6 @@
 
 ### A passionate frontend developer from the province of Samsun, Turkey
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Levoris&label=Profile views&color=0e75b6&style=flat" alt="Levoris" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Levoris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Levoris" height="30" width="40" /></a>
